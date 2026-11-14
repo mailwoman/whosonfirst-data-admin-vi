@@ -1,0 +1,83 @@
+{
+  "id": 9895008207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.92958741091137,18.34079209577913,-64.92958741091137,18.34079209577913",
+    "geom:latitude":18.340792,
+    "geom:longitude":-64.929587,
+    "iso:country":"VI",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1613932: name \"Fort Christian\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1613932"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1613932: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1613932"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1613932: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1613932"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 1125800103 (Charlotte Amalie).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 1125800103 (Charlotte Amalie), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fort Christian"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85632169,
+        85680571,
+        102191575,
+        136253057,
+        1125800103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1613932
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"faf4701bff976192b5f14ea5a9b3b9f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1125800103,
+            "neighbourhood_id":9895008207,
+            "region_id":85680571
+        }
+    ],
+    "wof:id":9895008207,
+    "wof:lastmodified":1794684277,
+    "wof:name":"Fort Christian",
+    "wof:parent_id":1125800103,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.92958741091137,
+    18.34079209577913,
+    -64.92958741091137,
+    18.34079209577913
+],
+  "geometry": {"coordinates":[-64.92958741091137,18.34079209577913],"type":"Point"}
+}

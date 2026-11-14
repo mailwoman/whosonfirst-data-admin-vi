@@ -1,0 +1,81 @@
+{
+  "id": 9895008205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.71318984451632,18.348012401384338,-64.71318984451632,18.348012401384338",
+    "geom:latitude":18.348012,
+    "geom:longitude":-64.71319,
+    "iso:country":"VI",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1613841: name \"Coral Bay\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1613841"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1613841: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1613841"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1613841: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1613841"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF region 85680575 (Saint John).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680575 (Saint John), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Coral Bay"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85632169,
+        85680575,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1613841
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"6c9f80a3fb84e216d3a55d9bc9ed8638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":9895008205,
+            "region_id":85680575
+        }
+    ],
+    "wof:id":9895008205,
+    "wof:lastmodified":1794684277,
+    "wof:name":"Coral Bay",
+    "wof:parent_id":85680575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.71318984451632,
+    18.348012401384338,
+    -64.71318984451632,
+    18.348012401384338
+],
+  "geometry": {"coordinates":[-64.71318984451632,18.348012401384338],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 9895008209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.88652889828396,18.33884609649787,-64.88652889828396,18.33884609649787",
+    "geom:latitude":18.338846,
+    "geom:longitude":-64.886529,
+    "iso:country":"VI",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1614395: name \"Tutu\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1614395"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1614395: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1614395"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1614395: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1614395"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF region 85680579 (Saint Croix).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680579 (Saint Croix), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tutu"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1614395
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"baae47c42439811968b56b2f6adad938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":9895008209,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":9895008209,
+    "wof:lastmodified":1794684277,
+    "wof:name":"Tutu",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.88652889828396,
+    18.33884609649787,
+    -64.88652889828396,
+    18.33884609649787
+],
+  "geometry": {"coordinates":[-64.88652889828396,18.33884609649787],"type":"Point"}
+}
